@@ -8,7 +8,7 @@ Ejercicio 1  "Mi tiendita"
 2.4. nav interna
 2.5. formularios(botones, inputs, labels,etc).
 3. Uso de iframes
-4. En el footer colocar las redes sociales y contactos.
-5. Colocar 3 etiques diferen a las vistas en las clases pasadas.
+4. En el footer inserta ligas que te dirigan a tus redes sociales.
+5. Utilizar 5 etiques diferen a las vistas en las clases pasadas.
 
 OJO--- Uso libre de propiedades ---
