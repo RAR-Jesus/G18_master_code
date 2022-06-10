@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic:wght@700&display=swap');
+
+body{
+    margin: 0%;
+    padding: 0%;
+    background: red;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+}
+
+nav li{
+   display: inline;
+    list-style-type: none;
+}
+
+a{
+   margin-left: 40px;
+   text-decoration: none ;
+   color:ghostwhite; 
+   font-weight: 600;
+}
+
+.icon-github:before {
+    content: "\e901";
+    color: #0000; 
+    margin-right: 10px; 
+}
+#section1{
+    background: blue;
+    font-family: 'Times New Roman', Times, serif;
+} 
