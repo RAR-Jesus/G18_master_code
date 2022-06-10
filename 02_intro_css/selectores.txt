@@ -1,3 +1,6 @@
 Selector clase: es un selector que nos permite a;adir estilos CSS a nuestros elementos y puede asignarse multiples veces
 Selector tipo Id: es un selector que nos permite a;adir estilos CSS a nuestros elementos y puede a;adirse una unica vez
 Selector Etiqueta: es un selector que nos permite a;adir estilos CSS a nuestros elementos y hace referencia a la etiqueta HTML
+
+https://materializecss.com/icons.html
+https://color.adobe.com/es/create/color-wheel
