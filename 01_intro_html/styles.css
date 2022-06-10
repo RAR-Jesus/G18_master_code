@@ -24,12 +24,8 @@ a{
    font-weight: 600;
 }
 
-.icon-github:before {
-    content: "\e901";
-    color: #0000; 
-    margin-right: 10px; 
-}
-#section1{
+
+#seccion1{
     background: blue;
     font-family: 'Times New Roman', Times, serif;
 } 
