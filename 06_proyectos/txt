@@ -1,0 +1,44 @@
+  <div class="imagen"> <img src="img/printerest.jpg" alt="" width="50" height="50" ></div>
+      <div> <button class="inicio" >  Inicio </button></div>
+      <div> <button class="hoy" >  Hoy </button></div>
+      <div><button class="siguiendo">Siguiendo</button></div>
+         <div class="buscar">
+          <i class="em em-mag" aria-role="presentation" aria-label="BIRD"></i>
+          <input placeholder="Buscar">
+      </div>
+      <div>
+        <button class="notificacion">
+           <i class="em em-bell" aria-role="presentation" aria-label="BIRD"></i>
+        </button>
+      </div>
+      <div>
+        <button class="notificacion">
+          <i class="em em-speech_balloon" aria-role="presentation" aria-label="BIRD"></i>
+        </button>
+      </div>
+      <div >
+         <button class="iconot">T</button>
+      </div>
+      <div class="notificacion">
+        <a href="">V</a>
+      </div>
+
+      <nav>
+        <ion-icon name="logo-pinterest"></ion-icon>
+        <a>Hoy</a>
+        <a>Siguiendo</a>
+        <div class="barra-busqueda">
+          <form >
+            <input type="text" placeholder="buscar" name="search" class="search">
+            
+        </div>
+        <a href="">
+          <ion-icon name="notifications-sharp"></ion-icon>
+        </a>
+        <a href="">
+          <ion-icon name="chatbubble-ellipses-sharp"></ion-icon>
+        </a>
+        <a href="">
+          <ion-icon name="person-sharp"></ion-icon>
+        </a>
+      </nav>
