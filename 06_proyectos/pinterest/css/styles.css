@@ -1,3 +1,5 @@
+
+
 body{
     background: #fff;
     margin: 0;
@@ -118,56 +120,6 @@ header{
 
  }
 
- /* .iconot{
-    display: flex;
-    flex-direction: row;
-    border-radius: 100%;
-    justify-content: center;
-    align-items: center;
-    border: none;
-    width: 40px;
-    height: 40px;
-    background-color:transparent;
-    font-size: 15px;
- }
- .iconot:hover{
-    background-color: gainsboro; 
- } */
-
-/* .notificacion a {
-    display: flex;
-    justify-content: center;
-    width: 40px;
-    height: 40px;
-    align-items: center;
-    text-decoration: none; 
-} */
-
-
-
-/* section{
-    display: flex;
-    flex-wrap: wrap;
-    flex-direction: column;
-    flex-direction: row; 
-    height: 100%;
-    width: 95%;
-    padding-top: 100px;
-    overflow: scroll;
-    margin-left: 5%;
-    
-}
- section article{
-    background-color: white;
-    margin: .5%;
-    padding: .5%;
-    height: 100%;
-    
-}
-img{
-    border-radius: 5%;
-    background-color: transparent;
-}  */
 
 
 .wrapper-card {
@@ -179,6 +131,8 @@ img{
   grid-template-rows: masonry;
   /* border: 3px solid blue; */
   gap: 1rem;
+  background-color: #e9e9e9;
+
 } 
 
 
@@ -197,6 +151,8 @@ img{
   width: 100%;
   height: 100%;
   object-fit: cover;
+  Box-Shadow:0 1px  2px 0 rgba(0,0,0,0.22);
+
 } 
 
 
@@ -293,3 +249,52 @@ img{
     display: none;
   }
 }
+
+
+
+/* @media only screen and (min-width: 600px) and ( max-width : 950px ) {
+ header{
+  flex-direction: row;
+  height: 10vh;
+  width: 143vh;
+ } */
+  
+
+@media only screen and (max-width: 1010px) {
+  .siguiendo {
+    display:inline-block;
+    font-size: 15px;
+  }
+  .inicio{
+    display:inline-block;
+    font-size: 15px;
+    
+  }
+
+  input{
+    display: none;
+  }
+  .buscar i{
+    display:inline-block;
+    font-size: 15px;
+     margin: 0;
+  }
+  .hoy{
+    display:inline-block;
+    font-size: 15px;
+  }
+  .imagen{
+     height:25%;
+     width: auto;
+  }
+  .iconos ion-icon{
+
+    font-size: 25px;
+  }
+}
+
+
+
+
+
+
